@@ -7,6 +7,7 @@ public class HelloClass {
 		System.out.println("Sample file doing something else");
 		System.out.println("another statement");
 		System.out.println("third sttement");
+		System.out.println("fourth statement");
 	}
 
 }
