@@ -8,6 +8,7 @@ public class HelloClass {
 		System.out.println("another statement");
 		System.out.println("third sttement");
 		System.out.println("fourth statement");
+		System.out.println("second statement");
 	}
 
 }
