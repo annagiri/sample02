@@ -6,7 +6,7 @@ public class Hi2 {
 
 		System.out.println("saying Hii");
 		System.out.println("changing here");
-		System.out.println("E1");
+		System.out.println("O1");
 	}
 
 }
